@@ -21,28 +21,29 @@
 - 📦 Received an **official parcel from Google** as recognition.  
 - 📢 **Featured on Hack2Skill & Google Cloud socials**  
 - 🎓 Consistently performing with merit scholarships and active in tech events
-- 🥈 secured 2nd place  in the AI Prompt Challenge organized by Hack2skill! 🎉
+- 🥈 secured 2nd place  in the AI Prompt Challenge organized by Hack2skill! 🎉            
 
 
----
+---          
 
-🔧 Tech Stack
+🔧 Tech Stack                
 
-Languages: C, C++, Python, SQL
+Languages: C, C++, Python, SQL               
 
-Web: HTML, CSS, JavaScript (Learning)
+Web: HTML, CSS, JavaScript (Learning)                
 
-Other: Git, GitHub, Flask (basic)
+Other: Git, GitHub, Flask (basic)              
 
 
-🔗 C-Data-Structures
- – Linked List, Stack, Queue implementations
+🔗 C-Data-Structures             
+ – Linked List, Stack, Queue implementations              
 
-📊 ML-Basics
- – Linear regression & classification experiments
+📊 ML-Basics       
+ – Linear regression & classification experiments      
 
-🌐 WebDev-Starter
- – My first HTML/CSS/JS project
+🌐 WebDev-Starter      
+ – My first HTML/CSS/JS project       
+     🌐 [Spotify-CLONE](https://github.com/Aruveer/spotify-clone)       
 
 
 
