@@ -9,19 +9,19 @@
     - Diploma : (Pursuing)     
     - Direct Admission through JEE Advanced     
 
-🚀 **Top 1 in Hack2Skill x Google Cloud Gen AI Exchange Program** — received official recognition from Google 🎁 
-🏅 Recipient of Dr. TMA Pai Merit Scholarship
+🚀 **Top 1 in Hack2Skill x Google Cloud Gen AI Exchange Program** — received official recognition from Google 🎁                  
+🏅 Recipient of Dr. TMA Pai Merit Scholarship             
  
-💡 I’m passionate about AI, Machine Learning, Web Development, and Data Science.
-🌱 Currently learning DSA in C++ & Full Stack Web Development.
-🚀 Exploring projects that can go from college-level to commercial-scale.
+💡 I’m passionate about AI, Machine Learning, Web Development, and Data Science.           
+🌱 Currently learning DSA in C++ & Full Stack Web Development.           
+🚀 Exploring projects that can go from college-level to commercial-scale.                   
 
-## 🏆 Achievements & Highlights  
-- 🥇 **Top 1 in Hack2Skill x Google Cloud Gen AI Exchange Program**  
-- 📦 Received an **official parcel from Google** as recognition.  
-- 📢 **Featured on Hack2Skill & Google Cloud socials**  
-- 🎓 Consistently performing with merit scholarships and active in tech events
-- 🥈 secured 2nd place  in the AI Prompt Challenge organized by Hack2skill! 🎉            
+## 🏆 Achievements & Highlights         
+- 🥇 **Top 1 in Hack2Skill x Google Cloud Gen AI Exchange Program**             
+- 📦 Received an **official parcel from Google** as recognition.            
+- 📢 **Featured on Hack2Skill & Google Cloud socials**            
+- 🎓 Consistently performing with merit scholarships and active in tech events             
+- 🥈 secured 2nd place  in the AI Prompt Challenge organized by Hack2skill! 🎉                         
 
 
 ---          
