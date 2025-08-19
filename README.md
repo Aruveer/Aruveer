@@ -1,16 +1,51 @@
-## Hi there 👋
+👋 Hi, I'm Aruveer Singh
 
-<!--
-**Aruveer/Aruveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI-ML) @ Manipal University Jaipur
+📚 BS in Data Science @ IIT Madras
 
-Here are some ideas to get you started:
+🚀 **Top 1 in Hack2Skill x Google Cloud Gen AI Exchange Program** — received official recognition from Google 🎁 
+🏅 Recipient of Dr. TMA Pai Merit Scholarship
+ 
+💡 I’m passionate about AI, Machine Learning, Web Development, and Data Science.
+🌱 Currently learning DSA in C++ & Full Stack Web Development.
+🚀 Exploring projects that can go from college-level to commercial-scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements & Highlights  
+- 🥇 **Top 1 in Hack2Skill x Google Cloud Gen AI Exchange Program**  
+- 📦 Received an **official parcel from Google** as recognition.  
+- 📢 **Featured on Hack2Skill & Google Cloud socials**  
+- 🎓 Consistently performing with merit scholarships and active in tech events
+- 🥈 secured 2nd place  in the AI Prompt Challenge organized by Hack2skill! 🎉
+
+
+---
+
+🔧 Tech Stack
+
+Languages: C, C++, Python, SQL
+
+Web: HTML, CSS, JavaScript (Learning)
+
+Other: Git, GitHub, Flask (basic)
+
+
+🔗 C-Data-Structures
+ – Linked List, Stack, Queue implementations
+
+📊 ML-Basics
+ – Linear regression & classification experiments
+
+🌐 WebDev-Starter
+ – My first HTML/CSS/JS project
+
+
+
+
+
+
+🌍 Connect with Me
+
+## 🌍 Connect with Me  
+
+- [LinkedIn](https://www.linkedin.com/in/aruveer-singh)  
+- [Email](mailto:aruveeryadav.com)  
