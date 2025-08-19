@@ -35,6 +35,8 @@ Web: HTML, CSS, JavaScript (Learning)
 Other: Git, GitHub, Flask (basic)              
 
 
+---
+
 🔗 C-Data-Structures             
  – Linked List, Stack, Queue implementations              
 
@@ -43,8 +45,10 @@ Other: Git, GitHub, Flask (basic)
 
 🌐 WebDev-Starter      
  – My first HTML/CSS/JS project       
-     🌐 [Spotify-CLONE](https://github.com/Aruveer/spotify-clone)       
+      [Spotify-CLONE](https://github.com/Aruveer/spotify-clone)     
 
+      
+---
 
 
 
