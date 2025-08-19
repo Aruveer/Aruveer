@@ -1,13 +1,13 @@
 👋 Hi, I'm Aruveer Singh
 
 🎓 B.Tech CSE (AI-ML) @ Manipal University Jaipur
-    CGPA : 9.61Grade: CGPA : 9.61
-    Dr TMA Pai Merit Scholarship Recipient 
+    - CGPA : 9.61Grade: CGPA : 9.61    
+    - Dr TMA Pai Merit Scholarship Recipient     
     
 📚 BS in Data Science @ IIT Madras
-    - Foundation : 9 CGPAGrade: Foundation : 9 CGPA
-    - Diploma : (Pursuing) 
-    - Direct Admission through JEE Advanced
+    - Foundation : 9 CGPAGrade: Foundation : 9 CGPA   
+    - Diploma : (Pursuing)     
+    - Direct Admission through JEE Advanced     
 
 🚀 **Top 1 in Hack2Skill x Google Cloud Gen AI Exchange Program** — received official recognition from Google 🎁 
 🏅 Recipient of Dr. TMA Pai Merit Scholarship
