@@ -22,7 +22,7 @@
 - 📦 Received an **official parcel from Google** as recognition.            
 - 📢 **Featured on Hack2Skill & Google Cloud socials**            
 - 🎓 Consistently performing with merit scholarships and active in tech events             
-- 🥈 secured 2nd place  in the AI Prompt Challenge organized by Hack2skill! 🎉                         
+- 🥈 Secured 2nd place  in the AI Prompt Challenge organized by Hack2skill! 🎉                         
 
 
 ---          
