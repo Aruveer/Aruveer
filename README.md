@@ -13,7 +13,7 @@
 🚀 **Top 1 in Hack2Skill x Google Cloud Gen AI Exchange Program** — received official recognition from Google 🎁                  
 🏅 Recipient of Dr. TMA Pai Merit Scholarship             
  
-💡 I’m passionate about AI, Machine Learning, Web Development, and Data Science.           
+💡 I’m passionate about AI, Machine Learning, Web Development and Data Science.           
 🌱 Currently learning DSA in C++ & Full Stack Web Development.           
 🚀 Exploring projects that can go from college-level to commercial-scale.                   
 
