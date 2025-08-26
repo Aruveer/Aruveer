@@ -31,7 +31,7 @@
 
 Languages: C, C++, Python, SQL               
 
-Web: HTML, CSS, JavaScript (Learning)                
+Web: HTML, CSS, BootStrap, JavaScript (Learning)                
 
 Other: Git, GitHub, Flask (basic)              
 
