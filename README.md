@@ -10,7 +10,7 @@
     - Diploma : (Pursuing)     
     - Direct Admission through JEE Advanced     
 
-🚀 **Top 1 in Hack2Skill x Google Cloud Gen AI Exchange Program** — received official recognition from Google 🎁                  
+🚀 **Top 1 in Hack2Skill x Google Cloud Gen AI Exchange Program** — received official recognition from Google as a personalised Package! 🎁                  
 🏅 Recipient of Dr. TMA Pai Merit Scholarship             
  
 💡 I’m passionate about AI, Machine Learning, Web Development and Data Science.           
