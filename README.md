@@ -8,7 +8,7 @@
 📚 **BS in Data Science @ IIT Madras**     
     - Foundation : 9 CGPA          
     - Diploma : (Pursuing)     
-    - Direct Admission through JEE Advanced     
+    - Direct Admission through JEE Advanced      
 
 🚀 **Top 1 in Hack2Skill x Google Cloud Gen AI Exchange Program** — received official recognition from Google as a personalised Package! 🎁                  
 🏅 Recipient of Dr. TMA Pai Merit Scholarship             
