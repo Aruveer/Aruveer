@@ -48,10 +48,10 @@ Other: Git, GitHub, Flask (basic)
  – My first HTML/CSS/JS project       
       [Spotify-CLONE](https://github.com/Aruveer/spotify-clone)     
 
-      
+        
 ---
 
-
+ 
 
 
 
