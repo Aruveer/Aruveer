@@ -27,7 +27,7 @@
 
 ---          
 
-🔧 Tech Stack                
+🔧 Tech Stack :                
 
 Languages: C, C++, Python, SQL               
 
