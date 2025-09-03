@@ -5,7 +5,7 @@
     - Dr TMA Pai Merit Scholarship Recipient       
     - 2nd Year       
     
-📚 **BS in Data Science @ IIT Madras**     
+📚 **BS in Data Science @ IIT Madras**      
     - Foundation : 9 CGPA          
     - Diploma : (Pursuing)     
     - Direct Admission through JEE Advanced      
