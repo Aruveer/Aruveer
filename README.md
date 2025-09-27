@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Aruveer Singh
  
-🎓 **B.Tech CSE (AI-ML) @ Manipal University Jaipur**    
+🎓 **B.Tech CSE (AI-ML) @ Manipal University Jaipur**     
     - CGPA : 9.61         
     - Dr TMA Pai Merit Scholarship Recipient       
     - 2nd Year        
