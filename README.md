@@ -1,4 +1,6 @@
 ## 👋 Hi, I'm Aruveer Singh
+
+  ✨**Google Student Ambassador**
   
 🎓 **B.Tech CSE (AI-ML) @ Manipal University Jaipur**     
     - CGPA : 9.61         
@@ -11,7 +13,8 @@
     - Direct Admission through JEE Advanced       
 
 🚀 **Top 1 in Hack2Skill x Google Cloud Gen AI Exchange Program** — received official recognition from Google as a personalised Package! 🎁                  
-🏅 Recipient of Dr. TMA Pai Merit Scholarship             
+🏅 Recipient of Dr. TMA Pai Merit Scholarship   
+
  
 💡 I’m passionate about AI, Machine Learning, Web Development and Data Science.           
 🌱 Currently learning DSA in C++ & Full Stack Web Development.           
