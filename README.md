@@ -3,7 +3,7 @@
   ✨**Google Student Ambassador**
   
 🎓 **B.Tech CSE (AI-ML) @ Manipal University Jaipur**     
-    - CGPA : 9.61         
+    - CGPA : 9.66         
     - Dr TMA Pai Merit Scholarship Recipient       
     - 2nd Year        
      
