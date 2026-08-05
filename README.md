@@ -5,7 +5,7 @@
 🎓 **B.Tech CSE (AI-ML) @ Manipal University Jaipur**     
     - CGPA : 9.65         
     - Dr TMA Pai Merit Scholarship Recipient       
-    - 2nd Year        
+    - 3rd Year        
      
 📚 **BS in Data Science @ IIT Madras**      
     - Foundation : 9 CGPA          
